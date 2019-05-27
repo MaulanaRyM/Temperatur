@@ -1,3 +1,5 @@
+![Optional Text](../master/img/image.png)
+
 # Temperatur
 Tools Pembanding Suhu [ Mr.yM ]
 # Need Install
